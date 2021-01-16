@@ -1,5 +1,4 @@
 import express from 'express';
-import nodemon from 'http';
 
 const main = async () => {
     const app = express();
